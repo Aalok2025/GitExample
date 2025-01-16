@@ -6,8 +6,6 @@ class Program
                 
                 System.Console.WriteLine("1st new commit"); 
 
-                System.Console.WriteLine("2st new commit");
-
-                System.Console.WriteLine("3rd new commit"); 
+                System.Console.WriteLine("2st new commit"); 
             }  
     }  
